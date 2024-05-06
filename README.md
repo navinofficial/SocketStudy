@@ -1,5 +1,6 @@
-# Ex.No:1a  			Study of Socket Programming
-
+# Ex.No:1a Study of Socket Programming
+## Name:Navinkumar v
+## Reg no:212223230141
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
@@ -81,9 +82,8 @@ s.send("Acknowledgement received from the server.".encode())
 ```
 ## output:
 ### client:
-![image](https://github.com/navinofficial/SocketStudy/assets/151710204/e5d6d0c6-ac5f-495f-a056-3508e17a4b29)
+![image](https://github.com/navinofficial/SocketStudy/assets/151710204/35e33541-e640-4572-8ad5-e5cd21a16ca3)
 ### server:
-![image](https://github.com/navinofficial/SocketStudy/assets/151710204/b0f758b1-b3a2-4f7d-be8b-0901732b3436)
-
+![image](https://github.com/navinofficial/SocketStudy/assets/151710204/216c6872-9e38-405d-bb65-4fcb9526d513)
 ## Result:
 Thus the study of Socket Programming Completed Successfully
